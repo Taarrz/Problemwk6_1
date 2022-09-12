@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int Combination(int x, int y);
-int Factorial(int x);
+int Combination(int n, int r);
+int Factorial(int n);
 int main() {
 	int n;
 	printf("N = ");
